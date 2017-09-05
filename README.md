@@ -11,6 +11,9 @@
 
 #### KF5
 ```` pod 'KF5', :git => 'https://github.com/JaminZhou/ThirdPartyKit.git', :branch => 'KF5' ````
+
+#### MeiPai
+```` pod 'MeiPai', :git => 'https://github.com/JaminZhou/ThirdPartyKit.git', :branch => 'MeiPai' ````
  
 ### official Pod
 
