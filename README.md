@@ -3,8 +3,11 @@
 ## Usage
 ### self-made Pod
 
-#### Tencent 
+#### Tencent
 ```` pod 'Tencent', :git => 'https://github.com/JaminZhou/ThirdPartyKit.git', :branch => 'Tencent' ````
+
+#### Alipay
+```` pod 'Tencent', :git => 'https://github.com/JaminZhou/ThirdPartyKit.git', :branch => 'Alipay' ````
  
 ### official Pod
 
