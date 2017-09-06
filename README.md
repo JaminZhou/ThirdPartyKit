@@ -15,6 +15,9 @@
 #### MeiPai
 ```` pod 'MeiPai', :git => 'https://github.com/JaminZhou/ThirdPartyKit.git', :branch => 'MeiPai' ````
  
+#### TalkingData
+```` pod 'TalkingData', :git => 'https://github.com/JaminZhou/ThirdPartyKit.git', :branch => 'TalkingData' ````
+
 ### official Pod
 
 #### Weibo
