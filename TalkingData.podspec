@@ -10,6 +10,6 @@ s.requires_arc        = true
 s.source              = { :git=> "https://github.com/JaminZhou/ThirdPartyKit.git", :tag => "#{s.version}"}
 s.libraries           = 'z'
 s.frameworks          = 'AdSupport', 'CoreMotion', 'CoreTelephony', 'SystemConfiguration'
-s.preserve_paths      = 'TalkingData/libTalkingData.a'
+s.vendored_libraries  = 'TalkingData/libTalkingData.a'
 s.source_files        = 'TalkingData/*.h'
 end
